@@ -10,7 +10,7 @@ Windows, OS X & Linux:
 
 ## Usage example
 
-
+![Landing Page](Images/landing1.png)
 
 ## Development setup
 

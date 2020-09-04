@@ -11,6 +11,11 @@ Windows, OS X & Linux:
 ## Usage example
 
 ![Landing Page](Images/landing1.png)
+![Landing Page](Images/landing2.png)
+![Plot Page](Images/humidity.png)
+![Comparison Page](Images/compare1.png)
+![Comparison Page](Images/compare2.png)
+![Data Page](Images/data.png)
 
 ## Development setup
 

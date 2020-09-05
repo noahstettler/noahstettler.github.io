@@ -5,7 +5,7 @@ This project is a website visualiztion dashboard for plotting the following weat
 * Latitude vs Cloudiness
 * Latitude vs Wind Speed
 
-The webisite includes a landing page that summarizes the analysis of the project, a page for each individual plot with observations, a page comparing each plot against each other, and a page containing the data source for the plots.
+The webisite includes a landing page that summarizes the analysis of the project, a page for each individual plot with observations, a page comparing each plot against each other, a page containing the data source for the plots, and a navigation bar connecting all of the pages.
 
 ## Installation
 

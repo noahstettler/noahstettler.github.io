@@ -1,5 +1,11 @@
 # Web Visualiztion Dashboard
+This project is a website visualiztion dashboard for plotting the following weather data for 1,000 random countries:
+* Latitude vs Temperature
+* Latitude vs Humidity
+* Latitude vs Cloudiness
+* Latitude vs Wind Speed
 
+The webisite includes a landing page that summarizes the analysis of the project, a page for each individual plot with observations, a page comparing each plot against each other, and a page containing the data source for the plots.
 
 ## Installation
 
